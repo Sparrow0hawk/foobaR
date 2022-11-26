@@ -1,6 +1,9 @@
+[![R CMD CHECK](https://github.com/Sparrow0hawk/foobaR/actions/workflows/rcmdcheck.yml/badge.svg)](https://github.com/Sparrow0hawk/foobaR/actions/workflows/rcmdcheck.yml)
 # FoobaR 
 
-An example R package.
+An example R package built using the following resources:
+- [R packages book](https://r-pkgs.org/)
+- [K Broman blog post](https://kbroman.org/pkg_primer/pages/minimal.html)
 
 ## Generation steps
 
