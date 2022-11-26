@@ -7,7 +7,5 @@
 #' @export
 #'
 foo <- function(x) {
-    print("Foo")
-    print(x)
-    print("fooFoo")
+    print(paste0("Foo ", x, " fooFoo"))
 }
