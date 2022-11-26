@@ -4,6 +4,8 @@
 #'
 #' @param x, a value to be foo'd
 #'
+#' @export
+#'
 foo <- function(x) {
     print("Foo")
     print(x)
